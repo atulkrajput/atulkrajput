@@ -24,8 +24,8 @@
 ---
 
 ## 📌 Pinned Projects  
-🔹 [**Project 1** - Full-Stack Web App](https://github.com/atulkrajput/project-1)  
-🔹 [**Project 2** - AI-based Tool](https://github.com/atulkrajput/project-2)  
+<!--🔹 [**Project 1** - Full-Stack Web App](https://github.com/atulkrajput/project-1)  -->
+<!--🔹 [**Project 2** - AI-based Tool](https://github.com/atulkrajput/project-2)  -->
 
 ---
 
